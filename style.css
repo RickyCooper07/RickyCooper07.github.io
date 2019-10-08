@@ -1,12 +1,12 @@
-body {background-color: coral;}
-#barmenu {
+body {background-color: Aqua;}
+#barmenu{
             list-style-type: none;
             margin: 0;
             padding: 0;
             overflow: hidden;
             background-color: #333;
             }
-.bar-items {
+.bar-item{
             display: block;
             color: white;
             text-align: center;
@@ -14,7 +14,7 @@ body {background-color: coral;}
             text-decoration: none;
             float: left;
             }
-#baritems:hover {
+.baritem:hover {
             background-color: #777;
                 }
 .content{					
