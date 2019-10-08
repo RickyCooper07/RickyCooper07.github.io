@@ -22,11 +22,12 @@ body {background-color: Blue;}
 }
 .title{
 	Font-Family:Georgia, serif;
-	color:
+	color:Blue;
                        
 }
 .hello-gif{
-            border:solid;
+        border:solid;
+	width:100%;
 }
 .hobbies{
             font-family: "Times New Roman", Times, serif;         
