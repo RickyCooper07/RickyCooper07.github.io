@@ -1,11 +1,11 @@
-#barmenu{
+#barmenu {
             list-style-type: none;
             margin: 0;
             padding: 0;
             overflow: hidden;
             background-color: #333;
             }
-.bar-item{
+#baritems {
             display: block;
             color: white;
             text-align: center;
@@ -13,21 +13,6 @@
             text-decoration: none;
             float: left;
             }
-.baritem:hover {
-            background-color: #777;
-                }
-.content{					
-            Font-family:"Lucida Console", Monaco, monospace;
-}
-.title{
-	Font-Family:Georgia, serif;
-	color:Blue;
-                       
-}
-.hello-gif{
-        border:solid;
-	width:100%;
-}
-.hobbies{
-            font-family: "Times New Roman", Times, serif;         
-}
+#baritems:hover{
+        background-color: #777;
+            }
