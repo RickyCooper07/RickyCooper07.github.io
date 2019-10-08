@@ -16,12 +16,20 @@
 #baritems:hover {
             background-color: #777;
                 }
-.content{
-            
+.content{					
+            Font-family:"Lucida Console", Monaco, monospace;
 }
 .title{
-            
+	Font-Family:Georgia, serif;
+	color:
+                       
 }
 .hello-gif{
+            border:solid;
+}
+.bar-item{
             
+}
+.hobbies{
+            font-family: "Times New Roman", Times, serif;         
 }
