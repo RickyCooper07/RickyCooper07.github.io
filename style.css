@@ -1,12 +1,12 @@
 body {background-color: coral;}
-#barmenu {
+.barmenu {
             list-style-type: none;
             margin: 0;
             padding: 0;
             overflow: hidden;
             background-color: #333;
             }
-#baritems {
+.bar-items {
             display: block;
             color: white;
             text-align: center;
@@ -27,9 +27,6 @@ body {background-color: coral;}
 }
 .hello-gif{
             border:solid;
-}
-.bar-item{
-            
 }
 .hobbies{
             font-family: "Times New Roman", Times, serif;         
