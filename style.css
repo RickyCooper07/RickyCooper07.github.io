@@ -20,8 +20,8 @@ body {
         background-color: #777;
             }
 .i-frame{
-            height:400px;
-            width:50%;
+            height:500px;
+            width:100%;
             }
 .about-me{
             font-family:Helvetica;
@@ -33,3 +33,7 @@ body {
 .title{
             Font-family: Apple Chancery;
             }
+#favoritehobby:hover{
+            color:green;
+            }
+w
